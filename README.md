@@ -1,4 +1,5 @@
-![Sloth](LA%20Collision%20Analysis/figures/Swift%20Sloth%20Logo.png)
+<img src="../Swift-Slothes%20-%20Copy%20(2)/LA%20Collision%20Analysis/figures/Swift%20Sloth%20Logo.png" width=600 height=500 align="center"/>
+
 # **CRIME ANALYSIS  REPORT** 
 
 
