@@ -1,4 +1,6 @@
-# **CRIME ANALYSIS  REPORT** ![Sloth](LA%20Collision%20Analysis/figures/Swift%20Sloth%20Logo.png)
+![Sloth](LA%20Collision%20Analysis/figures/Swift%20Sloth%20Logo.png)
+# **CRIME ANALYSIS  REPORT** 
+
 
 							by
 							
