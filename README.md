@@ -1,86 +1,46 @@
-# LA Traffic Collision Analysis
-One Paragraph of project description goes here
+# **CRIME ANALYSIS  REPORT** ![Sloth](LA%20Collision%20Analysis/figures/Swift%20Sloth%20Logo.png)
 
-## Getting Started
+							by
+							
+					   Amairani Garcia, Christian Bourdeau, Shan Huang
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+# PROJECT DESCRIPTION:
 
-### Prerequisites
+Research of traffic collisions for the City of Los Angeles from 2010 to 2019 and create data visualizations using the records from the dataset. 
 
-What things you need to install the software and how to install them
+# Analysis Overview:
 
-```
-Give examples
-```
++ **Who?: the demographic distribution of collision victims**
++ **When?: the time distribution of collisions**
++ **Where?: the relationship of location in which collisions occured**
 
-### Installing
 
-A step by step series of examples that tell you how to get a development env running
+# Technology Overview
 
-Say what the step will be
+| Technology   		| Description    							|
+| :---         		|     :---:      							|
+|  Github      		| HTML, CSS, AWS 							|
+|  API's       		| data.lacity.org, google 							|
+|  Python Libraries   	| Python, Pandas, Matplotlib, Seaborn, scipy.stats, numpy, seaborn, gmap    		|
+|  Supporting functions	| Sodapy (library), datecal, datetime, calendar, Rise (library)		|
 
-```
-Give the example
-```
 
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+# Development Requirements		
+		
++	Use Pandas to clean and format your dataset(s). 
++	Create a Jupyter Notebook describing the data exploration and cleanup process.
++	Create a Jupyter Notebook illustrating the final data analysis. 
++	Use Matplotlib to create a total of 6–8 visualizations of your data (ideally, at least 2 per ”question” you ask of your data). 
++	Save PNG images of your visualizations to distribute to the class and instructional team, and for inclusion in your presentation. 
++	 Use at least one API, if you can find an API with data pertinent to your primary research questions. 
++	Create a write-up summarizing your major findings. This should include a heading for each “question” you asked of your data and a short description of your findings and any relevant plots.
+		
+# Presentation Requirements 	
+		
++	10-minute project overview
++	Questions you found interesting and what motivated you to answer them
++	Where and how you found the data you used to answer these questions
++	The data exploration and cleanup process (accompanied by your Jupyter Notebook)
++	The analysis process (accompanied by your Jupyter Notebook)
++	Your conclusions, which should include a numerical summary and visualizations of that summary
++	The implications of your findings: what do your findings mean?
